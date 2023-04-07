@@ -1,0 +1,267 @@
+ body{
+background-color: lightgray;
+overflow-x: hidden;
+}
+.box1{
+      /* border: 1px solid black; */
+        /* background-color: black; */
+        height: 100px;
+        display: flex;
+    }
+    ol{
+        float: left;
+        color:black;
+    }
+    ol li{
+        margin-top: -5px;
+        float: left;
+        position: relative;
+        left: 300%;
+        width: 50px;
+        font-size: 14px;
+        
+    }
+    ol li a{
+        text-decoration: none;
+        color:black;
+    }
+    .cover img{
+        height: 700px;
+        
+    }
+    .container{   
+    position: absolute;
+    top: 30%;
+    left: 25%;
+    color: black;
+}
+h4{
+
+    width: 460px;
+
+}
+h1{
+    font-size: 30px;
+    color:white;
+    font-size: 70px;
+}
+.normal{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+h2{
+    font-size: 20px;
+    color: black;
+    
+}
+.text{
+    text-align: center;
+}
+.image1 img{
+    width: 300px;
+    height: 400px;
+    /* justify-content: space-between; */
+}
+.image2 img{
+    width: 300px;
+    height: 400px;
+    /* justify-content: space-between; */
+}
+.image3 img{
+    width: 300px;
+    height: 400px;
+    /* justify-content: space-between; */
+}
+.title{
+    text-align: center;
+}
+.menu{
+text-align: center;
+}
+.room{
+    text-align: center;
+}
+.containeer{
+    
+    margin-left: 15%;
+}
+
+.icon3 img{
+    width: 220px;
+}
+.icon5 img{
+    width: 200px;
+}
+.icon8 img{
+    width: 200px;
+}
+.page{
+    margin-left: 4%;
+}
+.redmi{
+    margin-left: 4%;
+}
+.contaner{
+    margin-left: 4%;
+    
+}
+.box2{
+    text-align: center;
+    width: 1300px;
+    height: 100px;
+}
+.normal{
+width: 800px;
+justify-content: space-between;
+/* height: 300px; */
+
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+.row1{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+}
+.column{
+    display: flex;
+    /* width: 1230px; */
+    height: 600px;
+    justify-content: space-between;
+}
+.picture1 img{
+    width: 300px;
+    height: 400px;
+}
+.picture2 img{
+    width: 300px;
+    height: 400px;
+}
+.picture3 img{
+    width: 300px;
+    height: 400px;
+}
+.picture4 img{
+    width: 300px;
+    height: 400px;
+}
+.picture5 img{
+    width: 300px;
+    height: 400px;
+}
+.picture6 img{
+    width: 300px;
+    height: 400px;
+}
+.first img{
+    width: 300px;
+    height: 400px;
+}
+.second img{
+    width: 300px;
+    height: 400px;
+}
+.third img{
+    width: 300px;
+    height: 400px;
+}
+.forth img{
+    width: 300px;
+    height: 400px;
+}
+.fifth img{
+    width: 300px;
+    height: 400px;
+}
+.sixth img{
+    width: 300px;
+    height: 400px;
+}
+.page4{
+    display: flex;
+    justify-content: space-between;
+}
+.foods{
+    display: flex;
+    justify-content: space-between;
+}
+   .foods2{
+    display: flex;
+    justify-content: space-between;
+   } 
+   .clerk img{
+    width: 800px;
+    height: 400px;
+    margin-left: 15%;
+   }
+   .say{
+    text-align: center;
+   }
+   .left img{
+    margin-left: 40%;
+   }
+.class{
+    text-align: center;
+}
+.words img{
+    width: 400px;
+    height: 450px;
+
+}
+.lady img{
+    width: 400px;
+    height: 400px;
+}
+.girl{
+    display: flex;
+    margin-left: 15%;
+}
+.container1{
+    text-align: center;
+    margin-left: 30%;
+}
+.footer{
+
+}
+.align{
+    border: solid;
+    border-radius: 50px;
+    height: 7vh;
+}
+.button{
+    margin-bottom: 50%;
+}
+.footer{
+    background-color: #222224;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 80px;
+
+}
+@media(max-width:1200px){
+    body{
+
+    }
+}
+@media(max-width:992px){
+    body{
+
+    }
+}
+@media(max-width:768px){
+    body{
+
+    }
+}
+@media(max-width:576px){
+    body{
+        
+    }
+}
